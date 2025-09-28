@@ -1,0 +1,8 @@
+dash>=2.16
+pandas>=2.1
+numpy>=1.26
+plotly>=5.22
+statsmodels>=0.14
+arch>=6.4
+cufflinks
+gunicorn
